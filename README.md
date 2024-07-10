@@ -3,9 +3,12 @@
 
 <h2>🐍 Python Projects:</h2>
 - <b>Python Essentials 1 by Cisco</b>
-  -  <a href="https://github.com/kliurobrigado/kliurobrigado/blob/main/tic-tac-toe_project_kliurobrigado.py">Tic-Tac-Toe Project</a>
+      - <a href="https://github.com/kliurobrigado/kliurobrigado/blob/main/tic-tac-toe_project_kliurobrigado.py">Tic-Tac-Toe Project</a>
 
 <h2>🔐 CyberSecurity Projects:</h2>
+- <a href="https://github.com/kliurobrigado/Botium-Toys-Cybersecurity-Project/blob/main/README.md">Botium Toys Security Audit</a>
+
+
 
 
 <h2>📃 Certifications:</h2>
