@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 - <b>Python Essentials 1 by Cisco</b>
-  - [Tic-Tac-Toe Project](LINK)
+  - [Tic-Tac-Toe Project](https://img.shields.io/pypi/pyversions/:packageName)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
  
