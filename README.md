@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 - <b>Python Essentials 1 by Cisco</b>
-  - [Tic-Tac-Toe Project](LINK)
+  -  <a href="https://github.com/kliurobrigado/kliurobrigado/blob/main/tic-tac-toe_project_kliurobrigado.py">Tic-Tac-Toe Project</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
  
